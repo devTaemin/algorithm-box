@@ -6,6 +6,11 @@ import java.util.Map;
 import java.util.Scanner;
 import java.util.Set;
 
+/**
+ * 정식당
+ * @author devTaemin
+ *
+ */
 public class BJ_17479 {
 	public static int A, B, C, N;
 	public static int CountNormal, CountSpecial, CountService;
