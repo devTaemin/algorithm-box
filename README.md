@@ -21,6 +21,7 @@
 * 001208_[S/W 문제해결 기본] 1일차 ([문제](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV139KOaABgCFAYh) / [Java 코드](/swacademy/D3_1208.java))
 * 001210_[S/W 문제해결 기본] 2일차 ([문제](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14ABYKADACFAYh) / [Java 코드](/swacademy/D4_1210.java))
 * 001289_원재의 메모리 복구하기 ([문제](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV19AcoKI9sCFAZN) / [Java 코드](/swacademy/D3_1289.java))
+* 001954_달팽이 숫자 ([문제](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PobmqAPoDFAUq) / [Java 코드](/swacademy/D2_1954.java))
 * 002805_농작물 수확하기 ([문제](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV7GLXqKAWYDFAXB) / [Java 코드](/swacademy/D3_2805.java))
 
 
