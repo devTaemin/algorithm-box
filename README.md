@@ -18,6 +18,8 @@
 ## [SW Expert Academy](https://swexpertacademy.com/main/main.do)
 <br>
 
+* 001208_[S/W 문제해결 기본] 1일차 ([문제](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV139KOaABgCFAYh) / [Java 코드](/swacademy/D3_1208.java))
+* 001210_[S/W 문제해결 기본] 2일차 ([문제](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14ABYKADACFAYh) / [Java 코드](/swacademy/D4_1210.java))
 * 001289_원재의 메모리 복구하기 ([문제](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV19AcoKI9sCFAZN) / [Java 코드](/swacademy/D3_1289.java))
 
 
