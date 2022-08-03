@@ -25,6 +25,7 @@
 * 001289_원재의 메모리 복구하기 ([문제](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV19AcoKI9sCFAZN) / [Java 코드](/swacademy/D3_1289.java))
 * 001873_상호의 배틀필드 ([문제](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5LyE7KD2ADFAXc) / [Java 코드](/swacademy/D3_1873.java))
 * 001954_달팽이 숫자 ([문제](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PobmqAPoDFAUq) / [Java 코드](/swacademy/D2_1954.java))
+* 002001_파리 퇴치 ([문제](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PzOCKAigDFAUq) / [Java 코드](/swacademy/D2_2001.java)) 
 * 002805_농작물 수확하기 ([문제](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV7GLXqKAWYDFAXB) / [Java 코드](/swacademy/D3_2805.java))
 
 
