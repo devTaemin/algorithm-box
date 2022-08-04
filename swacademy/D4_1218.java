@@ -33,6 +33,7 @@ public class D4_1218 {
 			Inputs = sc.next().toCharArray();
 			Container = new Stack<>();
 			
+			loop: 
 			for (int i = 0; i < Inputs.length; i++) {
 				char c = Inputs[i];
 				switch(c) {
@@ -53,6 +54,7 @@ public class D4_1218 {
 						Container.pop();
 					} else {
 						Container.add(LeftParenthesis);
+						break loop;
 					}
 					break;
 				case RightBrace:
@@ -60,6 +62,7 @@ public class D4_1218 {
 						Container.pop();
 					} else {
 						Container.add(LeftBrace);
+						break loop;
 					}
 					break;
 				case RightBracket:
@@ -67,6 +70,7 @@ public class D4_1218 {
 						Container.pop();
 					} else {
 						Container.add(LeftBracket);
+						break loop;
 					}
 					break;
 				case RightArrow:
@@ -74,12 +78,13 @@ public class D4_1218 {
 						Container.pop();
 					} else {
 						Container.add(LeftArrow);
+						break loop;
 					}
 					break;
 				}
 			}
 			
-			if (Container.size() == 0) {
+			if (Container.isEmpty()) {
 				results[tc] = 1;
 			} else {
 				results[tc] = 0;
