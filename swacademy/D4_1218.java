@@ -50,7 +50,7 @@ public class D4_1218 {
 					Container.add(LeftArrow);
 					break;
 				case RightParenthesis:
-					if (Container.peek() == LeftParenthesis) {
+					if (!Container.isEmpty() && Container.peek() == LeftParenthesis) {
 						Container.pop();
 					} else {
 						Container.add(LeftParenthesis);
@@ -58,7 +58,7 @@ public class D4_1218 {
 					}
 					break;
 				case RightBrace:
-					if (Container.peek() == LeftBrace) {
+					if (!Container.isEmpty() && Container.peek() == LeftBrace) {
 						Container.pop();
 					} else {
 						Container.add(LeftBrace);
@@ -66,7 +66,7 @@ public class D4_1218 {
 					}
 					break;
 				case RightBracket:
-					if (Container.peek() == LeftBracket) {
+					if (!Container.isEmpty() && Container.peek() == LeftBracket) {
 						Container.pop();
 					} else {
 						Container.add(LeftBracket);
@@ -74,7 +74,7 @@ public class D4_1218 {
 					}
 					break;
 				case RightArrow:
-					if (Container.peek() == LeftArrow) {
+					if (!Container.isEmpty() && Container.peek() == LeftArrow) {
 						Container.pop();
 					} else {
 						Container.add(LeftArrow);
