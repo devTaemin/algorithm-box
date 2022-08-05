@@ -8,6 +8,7 @@
 
 
 * 001244_스위치 켜고 끄기    ([문제](https://www.acmicpc.net/problem/1244) / [Java 코드](/baekjoon/BJ_1244.java))
+* 002023_신기한 소수         ([문제](https://www.acmicpc.net/problem/2023) / [Java 코드](/baekjoon/BJ_2023.java)) 
 * 002164_카드 2              ([문제](https://www.acmicpc.net/problem/2164) / [Java 코드](/baekjoon/BJ_2164.java)) 
 * 002493_탑                  ([문제](https://www.acmicpc.net/problem/2493) / [Java 코드](/baekjoon/BJ_2493.java)) 
 * 017478_재귀함수가 뭔가요?  ([문제](https://www.acmicpc.net/problem/17478) / [Java 코드](/baekjoon/BJ_17478.java))
