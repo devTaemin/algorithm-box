@@ -102,7 +102,7 @@
 * 그래프
   * 팀 결성                                ([Java 코드](/codetestforjob/TeamFormation.java))
   * 도시 분할 계획                         ([Java 코드](/codetestforjob/CityDIvisionPlan.java))
-  * 커리 큘럼 (Under Construction)         ([Java 코드](/codetestforjob/Curriculum.java))
+  * 커리 큘럼                              ([Java 코드](/codetestforjob/Curriculum.java))
     
 <br>
 
