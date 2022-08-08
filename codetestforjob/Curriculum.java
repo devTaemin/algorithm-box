@@ -10,68 +10,73 @@ import java.util.Scanner;
  * @author taeminim
  *
  */
-
 public class Curriculum {
-	static int N;
-	static Queue<Integer> Q = new LinkedList<>();
-	static ArrayList<ArrayList<Integer>> PreLesson = new ArrayList<ArrayList<Integer>>();
-	static int[] CountIn;
-	static int[] Times;
-
+	static int v;
+	static int[] indegree = new int[501];
+	static ArrayList<ArrayList<Integer>> graph = new ArrayList<ArrayList<Integer>>();
+	static int[] times = new int[501];
+	
+	public static void topologySort() {
+		int[] result = new int[501];
+		
+		for (int i = 1; i <= v; i++) {
+			result[i] = times[i];
+		}
+		
+		Queue<Integer> q = new LinkedList<>();
+		
+		for (int i = 1; i <= v; i++) {
+			if (indegree[i] == 0) {
+				q.offer(i);
+			}
+		}
+		
+		while(!q.isEmpty()) {
+			int now = q.poll();
+			
+			for (int i = 0; i < graph.get(now).size(); i++) {
+				int connected = graph.get(now).get(i);
+				result[connected] = Math.max(result[connected], result[now] + times[connected]);
+				indegree[connected] -= 1;
+				
+				if (indegree[connected] == 0) {
+					q.offer(connected);
+				}				
+			}
+		}
+		
+		for (int i = 1; i <= v; i++) {
+			System.out.println(result[i]);
+		}
+	}
+	
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
-		N = sc.nextInt();
+		v = sc.nextInt();
 		
-		CountIn = new int[N + 1];
-		Times = new int[N + 1];
+		/** Initialize graph */
+		for (int i = 0; i <= v; i++) {
+			graph.add(new ArrayList<Integer>());
+		}
 		
-		for (int i = 1; i <= N; i++) {
-			Times[i] = sc.nextInt();
+		/** Store information of edges */
+		for (int i = 1; i <= v; i++) {
+			int x = sc.nextInt();
+			times[i] = x;
 			
-			while (true) {
-				int lesson = sc.nextInt();
-				if (lesson == -1) break;
-				else {
-					CountIn[lesson]++;
-					PreLesson.get(lesson).add(i);
-				}
-			}
-		}
-		
-		int lesson = -1;
-		for (int i = 1; i <= N; i++) {
-			if (CountIn[i] == 0) {
-				lesson = i;
-				break;
-			}
-		}
-		
-		if (lesson == -1) {
-			System.out.println("Cannot find the result");
-			return;
-		}
-		
-		Q.add(lesson);
-		while (!Q.isEmpty()) {
-			int pre = Q.poll();
-			CountIn[pre] = -1;
-			
-			ArrayList<Integer> lessons = PreLesson.get(pre);
-			int maxTime = 0;
-			for (int i = 0; i < lessons.size(); i++) {
-				int checkLesson = lessons.get(i);
-				CountIn[checkLesson]--;
+			while(true) {
+				x = sc.nextInt();
+				if (x == -1) break;
 				
+				/** i has a prerequisite class 'x' */
+				indegree[i] += 1;
+				
+				/**  */
+				graph.get(x).add(i);
 			}
-			
-			
 		}
 		
-		
-		
-		
-		
-		
+		topologySort();
 	}
-
+	
 }
