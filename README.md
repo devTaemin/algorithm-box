@@ -34,7 +34,7 @@
 * 001954_달팽이 숫자 ([문제](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PobmqAPoDFAUq) / [Java 코드](/swacademy/D2_1954.java))
 * 002001_파리 퇴치 ([문제](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PzOCKAigDFAUq) / [Java 코드](/swacademy/D2_2001.java)) 
 * 002805_농작물 수확하기 ([문제](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV7GLXqKAWYDFAXB) / [Java 코드](/swacademy/D3_2805.java))
-
+* 009229_한빈이와 Spot Mart ([문제](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AW8Wj7cqbY0DFAXN) / [Java 코드](/swacademy/D3_9229.java))  
 
 <br>
 
