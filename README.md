@@ -13,6 +13,7 @@
 * 002164_카드 2              ([문제](https://www.acmicpc.net/problem/2164) / [Java 코드](/baekjoon/BJ_2164.java)) 
 * 002493_탑                  ([문제](https://www.acmicpc.net/problem/2493) / [Java 코드](/baekjoon/BJ_2493.java)) 
 * 002563_색종이              ([문제](https://www.acmicpc.net/problem/2563) / [Java 코드](/baekjoon/BJ_2563.java))  
+* 002961_도영이가 만든 맛있는 음식 ([문제](https://www.acmicpc.net/problem/2961) / [Java 코드](/baekjoon/BJ_2961.java)) 
 * 017478_재귀함수가 뭔가요?  ([문제](https://www.acmicpc.net/problem/17478) / [Java 코드](/baekjoon/BJ_17478.java))
 * 011659_구간 합 구하기4     ([문제](https://www.acmicpc.net/problem/11659) / [Java 코드](/baekjoon/BJ_11659.java)) 
 * 012891_DNA 비밀번호        ([문제](https://www.acmicpc.net/problem/12891) / [Java 코드](/baekjoon/BJ_12891.java))
