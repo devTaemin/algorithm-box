@@ -13,7 +13,7 @@ import java.util.Queue;
  * @author devTaemin
  *
  */
-public class Mock_1227 {
+public class D4_1227 {
 	static final int T = 10;
 	static final int N = 10;
 	
