@@ -9,6 +9,7 @@
 * 001010_다리 놓기           ([문제](https://www.acmicpc.net/problem/1010) / [Java 코드](/baekjoon/BJ_1010.java)) 
 * 001158_요세푸스 문제       ([문제](https://www.acmicpc.net/problem/1158) / [Java 코드](/baekjoon/BJ_1158.java))
 * 001244_스위치 켜고 끄기    ([문제](https://www.acmicpc.net/problem/1244) / [Java 코드](/baekjoon/BJ_1244.java))
+* 001541_잃어버린 괄호       ([문제](https://www.acmicpc.net/problem/1541) / [Java 코드](/baekjoon/BJ_1541.java))  
 * 001991_트리 순회           ([문제](https://www.acmicpc.net/problem/1991) / [Java 코드](/baekjoon/BJ_1991.java)) 
 * 002023_신기한 소수         ([문제](https://www.acmicpc.net/problem/2023) / [Java 코드](/baekjoon/BJ_2023.java)) 
 * 002164_카드 2              ([문제](https://www.acmicpc.net/problem/2164) / [Java 코드](/baekjoon/BJ_2164.java)) 
