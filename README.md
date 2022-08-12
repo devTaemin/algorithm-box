@@ -38,6 +38,7 @@
 * 001210_[S/W 문제해결 기본] 2일차 Ladder1 ([문제](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14ABYKADACFAYh) / [Java 코드](/swacademy/D4_1210.java))
 * 001218_[S/W 문제해결 기본] 4일차 괄호 짝짓기 ([문제](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14eWb6AAkCFAYD) / [Java 코드](/swacademy/D4_1218.java))  
 * 001225_[S/W 문제해결 기본] 7일차 암호 생성기 ([문제](https://swexpertacademy.com/main/solvingProblem/solvingProblem.do) / [Java 코드](/swacademy/D3_1225.java))
+* 001227_[S/W 문제해결 기본] 7일차 미로2 ([문제](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14wL9KAGkCFAYD&) / [Java 코드](/swacademy/D4_1227.java)) 
 * 001228_[S/W 문제해결 기본] 8일차 암호문1 ([문제](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14w-rKAHACFAYD) / [Java 코드](/swacademy/D3_1228.java))   
 * 001233_사칙연산 유효성 검사 ([문제](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV141176AIwCFAYD) / [Java 코드](/swacademy/D4_1233.java)) 
 * 001289_원재의 메모리 복구하기 ([문제](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV19AcoKI9sCFAZN) / [Java 코드](/swacademy/D3_1289.java))
