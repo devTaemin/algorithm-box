@@ -77,18 +77,22 @@
   * 큰 수의 법칙       ([Java 코드](/codetestforjob/BigNumberRule.java))
   * 숫자 카드 게임     ([Java 코드](/codetestforjob/NumberCardGame.java))
   * 1이 될 때까지      ([Java 코드](/codetestforjob/UntilOne.java))
+  * 모험가 길드       ([Java 코드](/codetestforjob/AdventurerGuild.java))
+  
   
 <br>
   
 * 구현
   * 왕실의 나이트      ([Java 코드](/codetestforjob/KnightOfKingdom.java))
   * 게임 개발          ([Java 코드](/codetestforjob/DevelopGame.java))
+  * 럭키 스트레이트     ([Java 코드](/codetestforjob/LuckyStraight.java))
   
 <br>
   
 * DFS/BFS
-  * 음료수 얼려 먹기    ([Java 코드](/codetestforjob/IceBeverage.java))
-  * 미로 탈출           ([Java 코드](/codetestforjob/EscapeMaze.java))
+  * 음료수 얼려 먹기            ([Java 코드](/codetestforjob/IceBeverage.java))
+  * 미로 탈출                    ([Java 코드](/codetestforjob/EscapeMaze.java))
+  * 특정 거리의 도시 찾기           ([Java 코드](/codetestforjob/FindCity.java))
     
 <br>
   
@@ -96,12 +100,14 @@
   * 위에서 아래로                        ([Java 코드](/codetestforjob/UpToDown.java))
   * 성적이 낮은 순서로 학생 출력하기      ([Java 코드](/codetestforjob/TestScore.java))
   * 두 배열의 원소 교체                  ([Java 코드](/codetestforjob/ChangeElement.java))
+  * 국영수                             ([Java 코드](/codetestforjob/KorEngMath.java))
     
 <br>
   
 * 이진 탐색
-  * 부품 찾기                           ([Java 코드](/codetestforjob/ChangePart.java))
-  * 떡볶이 떡 만들기                    ([Java 코드](/codetestforjob/RiceCake.java))
+  * 부품 찾기                             ([Java 코드](/codetestforjob/ChangePart.java))
+  * 떡볶이 떡 만들기                      ([Java 코드](/codetestforjob/RiceCake.java))
+  * 정렬된 배열에서 특정 수의 개수 구하기   ([Java 코드](/codetestforjob/CountSpeicificNumber.java))
     
 <br>
   
@@ -110,12 +116,14 @@
   * 개미 전사                           ([Java 코드](/codetestforjob/AntWarrior.java))
   * 바닥 공사                           ([Java 코드](/codetestforjob/ConstructFloor.java))
   * 효율적인 화폐 구성                  ([Java 코드](/codetestforjob/MonetaryComposition.java))  
+  * 금광                               ([Java 코드](/codetestforjob/GoldMine.java))  
     
 <br>
   
 * 최단 경로
   * 미래 도시                           ([Java 코드](/codetestforjob/FutureCity.java))
   * 전보                                ([Java 코드](/codetestforjob/Telegram.java))
+  * 플로이드                             ([Java 코드](/codetestforjob/Floyd.java))
     
 <br>
   
@@ -123,6 +131,7 @@
   * 팀 결성                                ([Java 코드](/codetestforjob/TeamFormation.java))
   * 도시 분할 계획                         ([Java 코드](/codetestforjob/CityDIvisionPlan.java))
   * 커리 큘럼                              ([Java 코드](/codetestforjob/Curriculum.java))
+  * 여행 계획                              ([Java 코드](/codetestforjob/TravelPlan.java))
     
 <br>
 
