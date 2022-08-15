@@ -47,6 +47,7 @@
 * 001861_정사각형방 ([문제](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5LtJYKDzsDFAXc) / [Java 코드](/swacademy/D4_1861.java)) 
 * 001873_상호의 배틀필드 ([문제](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5LyE7KD2ADFAXc) / [Java 코드](/swacademy/D3_1873.java))
 * 001954_달팽이 숫자 ([문제](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PobmqAPoDFAUq) / [Java 코드](/swacademy/D2_1954.java))
+* 001949_[모의 SW 역량테스트] 등산로 조성 ([문제](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PoOKKAPIDFAUq) / [Java 코드](/swacademy/Mock_1949.java))  
 * 002001_파리 퇴치 ([문제](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PzOCKAigDFAUq) / [Java 코드](/swacademy/D2_2001.java)) 
 * 002117_[모의 SW 역량테스트] 홈 방범 서비스 ([문제](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5V61LqAf8DFAWu) / [Java 코드](/swacademy/Mock_2117.java)) 
 * 002805_농작물 수확하기 ([문제](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV7GLXqKAWYDFAXB) / [Java 코드](/swacademy/D3_2805.java))
