@@ -73,6 +73,9 @@
 ## [Jungol](http://www.jungol.co.kr/)
 <br>
 
+* 001828_냉장고 ([문제](http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&code=1828&sca=3050) / [Java 코드](/jungol/JO_1828.java))
+
+<br>
 
 ## [CodeTestForJob](https://github.com/ndb796/python-for-coding-test)
 <br>
