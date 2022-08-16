@@ -85,7 +85,7 @@
   * 숫자 카드 게임     ([Java 코드](/codetestforjob/NumberCardGame.java))
   * 1이 될 때까지      ([Java 코드](/codetestforjob/UntilOne.java))
   * 모험가 길드       ([Java 코드](/codetestforjob/AdventurerGuild.java))
-  
+  * 곱하기 혹은 더하기       ([Java 코드](/codetestforjob/MulOrPlus.java))
   
 <br>
   
@@ -93,6 +93,7 @@
   * 왕실의 나이트      ([Java 코드](/codetestforjob/KnightOfKingdom.java))
   * 게임 개발          ([Java 코드](/codetestforjob/DevelopGame.java))
   * 럭키 스트레이트     ([Java 코드](/codetestforjob/LuckyStraight.java))
+  * 문자열 재정렬     ([Java 코드](/codetestforjob/RearrangeString.java))
   
 <br>
   
@@ -100,6 +101,7 @@
   * 음료수 얼려 먹기            ([Java 코드](/codetestforjob/IceBeverage.java))
   * 미로 탈출                    ([Java 코드](/codetestforjob/EscapeMaze.java))
   * 특정 거리의 도시 찾기           ([Java 코드](/codetestforjob/FindCity.java))
+  * 연구소                          ([Java 코드](/codetestforjob/Laboratory.java))
     
 <br>
   
@@ -108,6 +110,7 @@
   * 성적이 낮은 순서로 학생 출력하기      ([Java 코드](/codetestforjob/TestScore.java))
   * 두 배열의 원소 교체                  ([Java 코드](/codetestforjob/ChangeElement.java))
   * 국영수                             ([Java 코드](/codetestforjob/KorEngMath.java))
+  * 안테나                             ([Java 코드](/codetestforjob/Antenna.java))
     
 <br>
   
