@@ -56,6 +56,7 @@
 * 002805_농작물 수확하기 ([문제](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV7GLXqKAWYDFAXB) / [Java 코드](/swacademy/D3_2805.java))
 * 002819_격자판의 숫자 이어 붙이기 ([문제](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV7I5fgqEogDFAXB) / [Java 코드](/swacademy/D4_2819.java))  
 * 004008_[모의 SW 역량테스트] 숫자 만들기 ([문제](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIeRZV6kBUDFAVH) / [Java 코드](/swacademy/Mock_4008.java))
+* 004012_[모의 SW 역량테스트] 요리사 ([문제](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIeUtVakTMDFAVH) / [Java 코드](/swacademy/Mock_4012))
 * 005656_[모의 SW 역량테스트] 벽돌 깨기 ([문제](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRQm6qfL0DFAUo&) / [Java 코드](/swacademy/Mock_5656.java)) 
 * 009229_한빈이와 Spot Mart ([문제](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AW8Wj7cqbY0DFAXN) / [Java 코드](/swacademy/D3_9229.java))  
 * 006808_규영이와 인영이의 카드 게임([문제](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWgv9va6HnkDFAW0) / [Java 코드](/swacademy/D3_6808.java))
