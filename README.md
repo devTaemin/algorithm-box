@@ -17,6 +17,7 @@
 * 002164_카드 2              ([문제](https://www.acmicpc.net/problem/2164) / [Java 코드](/baekjoon/BJ_2164.java)) 
 * 002493_탑                  ([문제](https://www.acmicpc.net/problem/2493) / [Java 코드](/baekjoon/BJ_2493.java)) 
 * 002563_색종이              ([문제](https://www.acmicpc.net/problem/2563) / [Java 코드](/baekjoon/BJ_2563.java))
+* 002580_스도쿠              ([문제](https://www.acmicpc.net/problem/2580) / [Java 코드](/baekjoon/BJ_2580.java)) 
 * 002839_설탕배달            ([문제](https://www.acmicpc.net/problem/2839) / [Java 코드](/baekjoon/BJ_2839.java)) 
 * 002961_도영이가 만든 맛있는 음식 ([문제](https://www.acmicpc.net/problem/2961) / [Java 코드](/baekjoon/BJ_2961.java)) 
 * 003040_백설공주와 일곱 난장이 ([문제](https://www.acmicpc.net/problem/3040) / [Java 코드](/baekjoon/BJ_3040.java))  
