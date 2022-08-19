@@ -12,6 +12,7 @@
 * 001244_스위치 켜고 끄기    ([문제](https://www.acmicpc.net/problem/1244) / [Java 코드](/baekjoon/BJ_1244.java))
 * 001260_DFS와 BFS          ([문제](https://www.acmicpc.net/problem/1260) / [Java 코드](/baekjoon/BJ_1260.java)) 
 * 001541_잃어버린 괄호       ([문제](https://www.acmicpc.net/problem/1541) / [Java 코드](/baekjoon/BJ_1541.java)) 
+* 001697_숨바꼭질            ([문제](https://www.acmicpc.net/problem/1697) / [Java 코드](/baekjoon/BJ_1697.java)) 
 * 001976_여행 가자           ([문제](https://www.acmicpc.net/problem/1976) / [Java 코드](/baekjoon/BJ_1976.java)) 
 * 001991_트리 순회           ([문제](https://www.acmicpc.net/problem/1991) / [Java 코드](/baekjoon/BJ_1991.java)) 
 * 001987_알파벳              ([문제](https://www.acmicpc.net/problem/1987) / [Java 코드(DFS)](/baekjoon/BJ_1987.java)) / [Java 코드(BFS)](/baekjoon/BJ_1987_2.java))
