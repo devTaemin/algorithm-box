@@ -148,6 +148,7 @@
   * 미래 도시                           ([Java 코드](/codetestforjob/FutureCity.java))
   * 전보                                ([Java 코드](/codetestforjob/Telegram.java))
   * 플로이드                             ([Java 코드](/codetestforjob/Floyd.java))
+  * 정확한 순위                          ([Java 코드](/codetestforjob/ExactRank.java))
     
 <br>
   
@@ -156,6 +157,7 @@
   * 도시 분할 계획                         ([Java 코드](/codetestforjob/CityDIvisionPlan.java))
   * 커리 큘럼                              ([Java 코드](/codetestforjob/Curriculum.java))
   * 여행 계획                              ([Java 코드](/codetestforjob/TravelPlan.java))
+  * 탑승구                                ([Java 코드](/codetestforjob/BoardingGate.java))
     
 <br>
 
