@@ -59,6 +59,7 @@
 * 001227_[S/W 문제해결 기본] 7일차 미로2 ([문제](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14wL9KAGkCFAYD&) / [Java 코드](/swacademy/D4_1227.java)) 
 * 001228_[S/W 문제해결 기본] 8일차 암호문1 ([문제](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14w-rKAHACFAYD) / [Java 코드](/swacademy/D3_1228.java))   
 * 001233_사칙연산 유효성 검사 ([문제](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV141176AIwCFAYD) / [Java 코드](/swacademy/D4_1233.java)) 
+* 001238_[S/W 문제해결 기본] 10일차 - Contact ([문제](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15B1cKAKwCFAYD) / [Java 코드](/swacademy/D4_1238.java))
 * 001247_[S/W 문제해결 응용] 3일차 최적 경로 ([문제](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15OZ4qAPICFAYD) / [Java 코드](/swacademy/D5_1247.java)) 
 * 001289_원재의 메모리 복구하기 ([문제](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV19AcoKI9sCFAZN) / [Java 코드](/swacademy/D3_1289.java))
 * 001861_정사각형방 ([문제](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5LtJYKDzsDFAXc) / [Java 코드](/swacademy/D4_1861.java)) 
