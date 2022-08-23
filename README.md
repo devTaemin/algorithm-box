@@ -79,7 +79,8 @@
 * 005644_[모의 SW 역량테스트] 무선 충전 ([문제](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRDL1aeugDFAUo) / [Java 코드](/swacademy/Mock_5644.java)) 
 * 005656_[모의 SW 역량테스트] 벽돌 깨기 ([문제](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRQm6qfL0DFAUo&) / [Java 코드](/swacademy/Mock_5656.java)) 
 * 009229_한빈이와 Spot Mart ([문제](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AW8Wj7cqbY0DFAXN) / [Java 코드](/swacademy/D3_9229.java))  
-* 006808_규영이와 인영이의 카드 게임([문제](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWgv9va6HnkDFAW0) / [Java 코드](/swacademy/D3_6808.java))
+* 006808_규영이와 인영이의 카드 게임 ([문제](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWgv9va6HnkDFAW0) / [Java 코드](/swacademy/D3_6808.java))
+* 007465_창용 마을 무리의 개수 ([문제](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWngfZVa9XwDFAQU&) / [Java 코드](/swacademy/D4_7465.java))
 
 <br>
 
