@@ -49,7 +49,7 @@
 * 017406_배열 돌리기4         ([문제](https://www.acmicpc.net/problem/17406) / [Java 코드](/baekjoon/BJ_17406.java))
 * 017478_재귀함수가 뭔가요   ([문제](https://www.acmicpc.net/problem/17478) / [Java 코드](/baekjoon/BJ_17478.java)) 
 * 017479_정식당             ([문제](https://www.acmicpc.net/problem/17479) / [Java 코드](/baekjoon/BJ_17479.java))
-* 018405_경쟁적 전염         ([문제](https://www.acmicpc.net/problem/18405) / [Java 코드](/baekjoon/Bj_18405.java)) 
+* 018405_경쟁적 전염         ([문제](https://www.acmicpc.net/problem/18405) / [Java 코드](/swacademy/CompetitiveInfection.java)) 
 
 
 <br>
@@ -132,6 +132,7 @@
   * 미로 탈출                    ([Java 코드](/codetestforjob/EscapeMaze.java))
   * 특정 거리의 도시 찾기           ([Java 코드](/codetestforjob/FindCity.java))
   * 연구소                          ([Java 코드](/codetestforjob/Laboratory.java))
+  * 경쟁적 전염                    ([Java 코드](/swacademy/CompetitiveInfection.java)) 
     
 <br>
   
