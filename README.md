@@ -112,6 +112,7 @@
   * 1이 될 때까지      ([Java 코드](/codetestforjob/UntilOne.java))
   * 모험가 길드       ([Java 코드](/codetestforjob/AdventurerGuild.java))
   * 곱하기 혹은 더하기       ([Java 코드](/codetestforjob/MulOrPlus.java))
+  * 문자열 뒤집기        ([Java 코드](/codetestforjob/FlipOver.java))
   
 <br>
   
@@ -120,6 +121,7 @@
   * 게임 개발          ([Java 코드](/codetestforjob/DevelopGame.java))
   * 럭키 스트레이트     ([Java 코드](/codetestforjob/LuckyStraight.java))
   * 문자열 재정렬     ([Java 코드](/codetestforjob/RearrangeString.java))
+  * 문자열 압축       ([Java 코드](/codetestforjob/CompressString.java))
   
 <br>
   
