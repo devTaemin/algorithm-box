@@ -16,6 +16,7 @@
 * 001753_최단 경로           ([문제](https://www.acmicpc.net/problem/1753) / [Java 코드](/baekjoon/BJ_1753.java)) 
 * 001759_암호 만들기         ([문제](https://www.acmicpc.net/problem/1759) / [Java 코드](/baekjoon/BJ_1759.java)) 
 * 001976_여행 가자           ([문제](https://www.acmicpc.net/problem/1976) / [Java 코드](/baekjoon/BJ_1976.java)) 
+* 001786_찾기                ([문제](https://www.acmicpc.net/problem/1786) / [Java 코드](/baekjoon/BJ_1786.java))
 * 001991_트리 순회           ([문제](https://www.acmicpc.net/problem/1991) / [Java 코드](/baekjoon/BJ_1991.java)) 
 * 001987_알파벳              ([문제](https://www.acmicpc.net/problem/1987) / [Java 코드(DFS)](/baekjoon/BJ_1987.java)) / [Java 코드(BFS)](/baekjoon/BJ_1987_2.java))
 * 001992_쿼드 드리           ([문제](https://www.acmicpc.net/problem/1992) / [Java 코드](/baekjoon/BJ_1992.java))
