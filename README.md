@@ -141,8 +141,9 @@
   * 위에서 아래로                        ([Java 코드](/codetestforjob/UpToDown.java))
   * 성적이 낮은 순서로 학생 출력하기      ([Java 코드](/codetestforjob/TestScore.java))
   * 두 배열의 원소 교체                  ([Java 코드](/codetestforjob/ChangeElement.java))
-  * 국영수                             ([Java 코드](/codetestforjob/KorEngMath.java))
+  * 국영수                             ([Java 코드](/codetestforjob/KorEngMath.java)) 
   * 안테나                             ([Java 코드](/codetestforjob/Antenna.java))
+  * 실패율                              ([Java 코드](/codetestforjob/FailureRate.java)) 
     
 <br>
   
