@@ -38,6 +38,7 @@
 * 011660_구간 합 구하기5     ([문제](https://www.acmicpc.net/problem/11660) / [Java 코드](/baekjoon/BJ_11660.java)) 
 * 012891_DNA 비밀번호        ([문제](https://www.acmicpc.net/problem/12891) / [Java 코드](/baekjoon/BJ_12891.java))
 * 013023_ABCDE              ([문제](https://www.acmicpc.net/problem/13023) / [Java 코드](/baekjoon/BJ_13023.java)) 
+* 014501_퇴사                ([문제](https://www.acmicpc.net/problem/14501) / [Java 코드](/swacademy/Resignation.java))
 * 015683_감시                ([문제](https://www.acmicpc.net/problem/15683) / [Java 코드](/baekjoon/BJ_15683.java))
 * 015686_치킨 배달           ([문제](https://www.acmicpc.net/problem/15686) / [Java 코드](/baekjoon/BJ_15686.java)) 
 * 016236_아기 상어           ([문제](https://www.acmicpc.net/problem/16236) / [Java 코드](/baekjoon/BJ_16236.java)) 
@@ -158,6 +159,7 @@
   * 바닥 공사                           ([Java 코드](/codetestforjob/ConstructFloor.java))
   * 효율적인 화폐 구성                  ([Java 코드](/codetestforjob/MonetaryComposition.java))  
   * 금광                               ([Java 코드](/codetestforjob/GoldMine.java))  
+  * 퇴사                               ([Java 코드](/swacademy/Resignation.java))
     
 <br>
   
