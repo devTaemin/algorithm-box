@@ -182,6 +182,7 @@
   * 커리 큘럼                              ([Java 코드](/codetestforjob/Curriculum.java))
   * 여행 계획                              ([Java 코드](/codetestforjob/TravelPlan.java))
   * 탑승구                                ([Java 코드](/codetestforjob/BoardingGate.java))
+  * 어두운 길                               ([Java 코드](/codetestforjob/DarkRoad.java)) 
     
 <br>
 
