@@ -21,6 +21,7 @@
 * 001987_알파벳              ([문제](https://www.acmicpc.net/problem/1987) / [Java 코드(DFS)](/baekjoon/BJ_1987.java)) / [Java 코드(BFS)](/baekjoon/BJ_1987_2.java))
 * 001992_쿼드 드리           ([문제](https://www.acmicpc.net/problem/1992) / [Java 코드](/baekjoon/BJ_1992.java))
 * 002023_신기한 소수         ([문제](https://www.acmicpc.net/problem/2023) / [Java 코드](/baekjoon/BJ_2023.java)) 
+* 002110_공유기 설치         ([문제](https://www.acmicpc.net/problem/2110) / [Java 코드](/codetestforjob/BJ_2110.java))
 * 002164_카드 2              ([문제](https://www.acmicpc.net/problem/2164) / [Java 코드](/baekjoon/BJ_2164.java)) 
 * 002309_일곱 난쟁이          ([문제](https://www.acmicpc.net/problem/2309) / [Java 코드](/baekjoon/BJ_2309.java))
 * 002468_안전 영역            ([문제](https://www.acmicpc.net/problem/2468) / [Java 코드](/baekjoon/BJ_2468.java))
@@ -154,6 +155,7 @@
   * 부품 찾기                             ([Java 코드](/codetestforjob/ChangePart.java))
   * 떡볶이 떡 만들기                      ([Java 코드](/codetestforjob/RiceCake.java))
   * 정렬된 배열에서 특정 수의 개수 구하기   ([Java 코드](/codetestforjob/CountSpeicificNumber.java))
+  * 공유기 설치                           ([Java 코드](/codetestforjob/BJ_2110.java))
     
 <br>
   
