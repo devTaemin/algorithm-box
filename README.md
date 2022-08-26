@@ -172,6 +172,7 @@
   * 전보                                ([Java 코드](/codetestforjob/Telegram.java))
   * 플로이드                             ([Java 코드](/codetestforjob/Floyd.java))
   * 정확한 순위                          ([Java 코드](/codetestforjob/ExactRank.java))
+  * 화성 탐사                            ([Java 코드(BFS)](/codetestforjob/ExplorationOfMars.java) / [Java 코드(Dijkstra)](/codetestforjob/ExplorationOfMars2.java))
     
 <br>
   
