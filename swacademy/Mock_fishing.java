@@ -12,6 +12,11 @@ import java.util.StringTokenizer;
 /***
  * [A형 연습문제] 낚시터 자리잡기
  * @author devTaemin
+ * @소요시간 300분...
+ * 
+ * 핵심요소
+ * - 현재 위치에서 목표 위치까지의 최소 비용을 구해야 한다 (BFS)
+ * - 몬스터와 고객을 방문하는 순서를 순열로 구현하는데, 방문 순서 규칙에 맞는 순열만을 허용한다.
  */
 public class Mock_fishing {
 	
