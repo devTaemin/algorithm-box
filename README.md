@@ -93,6 +93,7 @@
 * 007465_창용 마을 무리의 개수 ([문제](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWngfZVa9XwDFAQU&) / [Java 코드](/swacademy/D4_7465.java))
 * 015170_[연습문제] 낚시터 자리잡기 ([문제](https://swexpertacademy.com/main/solvingProblem/solvingProblem.do) / [Java 코드](/swacademy/Mock_fishing.java))
 * 015172_[연습문제] 헌터 ([문제](https://swexpertacademy.com/main/solvingProblem/solvingProblem.do) / [Java 코드](/swacademy/Mock_hunter.java)) 
+* 015173_[연습문제] Shuffle-O-Matic ([문제](https://swexpertacademy.com/main/solvingProblem/solvingProblem.do) / [Java 코드](/swacademy/Mock_shuffleOMatic.java))
 <br>
 
 
