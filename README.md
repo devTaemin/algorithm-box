@@ -91,7 +91,7 @@
 * 009229_한빈이와 Spot Mart ([문제](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AW8Wj7cqbY0DFAXN) / [Java 코드](/swacademy/D3_9229.java))  
 * 006808_규영이와 인영이의 카드 게임 ([문제](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWgv9va6HnkDFAW0) / [Java 코드](/swacademy/D3_6808.java))
 * 007465_창용 마을 무리의 개수 ([문제](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWngfZVa9XwDFAQU&) / [Java 코드](/swacademy/D4_7465.java))
-
+* 015170_[연습문제] 낚시터 자리잡기 ([문제](https://swexpertacademy.com/main/solvingProblem/solvingProblem.do) / [Java 코드](/swacademy/Mock_fishing.java))
 <br>
 
 
