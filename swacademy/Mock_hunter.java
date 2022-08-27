@@ -16,6 +16,9 @@ import java.util.StringTokenizer;
  * [A형 연습문제] 헌터
  * @author 	devTaemin
  * @소요시간	80분
+ * 
+ * 핵심요소
+ * - 마지막 낚시꾼의 위치가 양쪽이 같으면 오른쪽으로 가도 되고 왼쪽으로 가도 된다. 임의로 경우의 수를 따지지 말고 분기를 해줘야 한다.
  */
 public class Mock_hunter {
 	
