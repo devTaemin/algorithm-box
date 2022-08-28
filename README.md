@@ -33,6 +33,7 @@
 * 002961_도영이가 만든 맛있는 음식 ([문제](https://www.acmicpc.net/problem/2961) / [Java 코드](/baekjoon/BJ_2961.java)) 
 * 003040_백설공주와 일곱 난장이 ([문제](https://www.acmicpc.net/problem/3040) / [Java 코드](/baekjoon/BJ_3040.java))  
 * 003109_빵집                ([문제](https://www.acmicpc.net/problem/3109) / [Java 코드](/baekjoon/BJ_3109.java)) 
+* 003055_탈출                ([문제](https://www.acmicpc.net/problem/3055) / [Java 코드](/baekjoon/BJ_3055.java)) 
 * 004485_녹색 옷 입은 애가 젤다지? ([문제](https://www.acmicpc.net/problem/4485) / [Java 코드](/baekjoon/BJ_4485.java)) 
 * 007576_토마토              ([문제](https://www.acmicpc.net/problem/7576) / [Java 코드](/baekjoon/BJ_7576.java))
 * 010026_적록색약            ([문제](https://www.acmicpc.net/problem/10026) / [Java 코드](/baekjoon/BJ_10026.java))
