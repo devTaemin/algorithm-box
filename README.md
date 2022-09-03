@@ -164,6 +164,7 @@
   * 떡볶이 떡 만들기                      ([Java 코드](/codetestforjob/RiceCake.java))
   * 정렬된 배열에서 특정 수의 개수 구하기   ([Java 코드](/codetestforjob/CountSpeicificNumber.java))
   * 공유기 설치                           ([Java 코드](/codetestforjob/BJ_2110.java))
+  * 가사 찾기                             ([Java 코드](/codetestforjob/SearchLyrics.java)) 
     
 <br>
   
