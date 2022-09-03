@@ -134,6 +134,7 @@
   * 럭키 스트레이트     ([Java 코드](/codetestforjob/LuckyStraight.java))
   * 문자열 재정렬     ([Java 코드](/codetestforjob/RearrangeString.java))
   * 문자열 압축       ([Java 코드](/codetestforjob/CompressString.java))
+  * 자물쇠와 열쇠      ([Java 코드](/codetestforjob/LockAndKey.java)) 
   
 <br>
   
