@@ -155,6 +155,7 @@
   * 국영수                             ([Java 코드](/codetestforjob/KorEngMath.java)) 
   * 안테나                             ([Java 코드](/codetestforjob/Antenna.java))
   * 실패율                              ([Java 코드](/codetestforjob/FailureRate.java)) 
+  * 카드 정렬하기                        ([Java 코드](/codetestforjob/SortCard.java)) 
     
 <br>
   
