@@ -175,6 +175,7 @@
   * 효율적인 화폐 구성                  ([Java 코드](/codetestforjob/MonetaryComposition.java))  
   * 금광                               ([Java 코드](/codetestforjob/GoldMine.java))  
   * 퇴사                               ([Java 코드](/swacademy/Resignation.java))
+  * 병사 배치하기                       ([Java 코드](/codetestforjob/DeploySoldier.java))
     
 <br>
   
