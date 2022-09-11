@@ -125,6 +125,7 @@
   * 곱하기 혹은 더하기       ([Java 코드](/codetestforjob/MulOrPlus.java))
   * 문자열 뒤집기        ([Java 코드](/codetestforjob/FlipOver.java))
   * 만들 수 없는 금액     ([Java 코드](/codetestforjob/UncreatablePrice.java))
+  * 볼링공 고르기        ([Java 코드](/codetestforjob/Bowlingball.java))
   
 <br>
   
