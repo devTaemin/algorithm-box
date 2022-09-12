@@ -147,6 +147,8 @@
   * 연구소                          ([Java 코드](/codetestforjob/Laboratory.java))
   * 경쟁적 전염                    ([Java 코드](/swacademy/CompetitiveInfection.java)) 
   * 괄호 변환                      ([Java 코드](/codetestforjob/ParenthesisConversion.java))
+  * 연산자 끼워넣기                      ([Java 코드](/codetestforjob/Operator.java))
+  
     
 <br>
   
