@@ -136,6 +136,7 @@
   * 문자열 재정렬     ([Java 코드](/codetestforjob/RearrangeString.java))
   * 문자열 압축       ([Java 코드](/codetestforjob/CompressString.java))
   * 자물쇠와 열쇠      ([Java 코드](/codetestforjob/LockAndKey.java)) 
+  * 뱀                ([Java 코드](/codetestforjob/Snake.java)) 
   
 <br>
   
