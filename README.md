@@ -148,6 +148,7 @@
   * 경쟁적 전염                    ([Java 코드](/swacademy/CompetitiveInfection.java)) 
   * 괄호 변환                      ([Java 코드](/codetestforjob/ParenthesisConversion.java))
   * 연산자 끼워넣기                      ([Java 코드](/codetestforjob/Operator.java))
+  * 감시 피하기                      ([Java 코드](/codetestforjob/AvoidServeilance.java))
   
     
 <br>
