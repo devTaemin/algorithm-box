@@ -126,6 +126,7 @@
   * 문자열 뒤집기        ([Java 코드](/codetestforjob/FlipOver.java))
   * 만들 수 없는 금액     ([Java 코드](/codetestforjob/UncreatablePrice.java))
   * 볼링공 고르기        ([Java 코드](/codetestforjob/Bowlingball.java))
+  * 무지의 먹방 라이브        ([Java 코드](/codetestforjob/LiveShow.java))
   
 <br>
   
