@@ -1,4 +1,4 @@
-﻿package com.ssafy.swea.day12;
+package com.ssafy.swea.day12;
 
 import java.io.BufferedReader;
 import java.io.File;
